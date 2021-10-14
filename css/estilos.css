@@ -1338,7 +1338,7 @@ Nosotros / nestra historia
   bottom: 0;
   right: 0;
   content: "";
-  background: no-repeat center/20% url("../../img//icons/lupa.svg");
+  background: no-repeat center/20% url("/../img/icons/lupa.svg");
   color: red;
   z-index: 1;
   opacity: 0;
