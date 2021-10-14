@@ -1,0 +1,505 @@
+[
+  {
+    "codigo": 1,
+    "nombre": "Canguro Bianca",
+    "categoria": "Canguros",
+    "linea": "Nena",
+    "marca": "Grisino",
+    "precio": 1700,
+    "imagen": [
+      "img/shop/grisino_nena_01.jpg",
+      "img/shop/grisino_nena_01B.jpg"
+    ],
+    "color": "Melange",
+    "descripcion": "CANGURO MATILDE NNA - RUSTICO ELASTANO E",
+    "stock": {
+      "XS": 3,
+      "S": 0,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 2,
+    "nombre": "Short Milena",
+    "categoria": "Shorts",
+    "linea": "Nena",
+    "marca": "Grisino",
+    "precio": 1700,
+    "imagen": [
+      "img/shop/grisino_nena_02.jpg",
+      "img/shop/grisino_nena_02B.jpg"
+    ],
+    "color": "Rosa",
+    "descripcion": "SHORT MILENA NNA - RUSTICO ELASTANO",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 3,
+    "nombre": "Vestido Marina",
+    "categoria": "Vestidos",
+    "linea": "Damas",
+    "marca": "Grisino",
+    "precio": 1800,
+    "imagen": [
+      "img/shop/grisino_nena_03.jpg",
+      "img/shop/grisino_nena_03B.jpg"
+    ],
+    "color": "Azul",
+    "descripcion": "VESTIDO MARINA NNA - JERSEY",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 4,
+    "nombre": "Remera Filomena",
+    "categoria": "Remeras",
+    "linea": "Nena",
+    "marca": "Grisino",
+    "precio": 1800,
+    "imagen": [
+      "img/shop/grisino_nena_04.jpg",
+      "img/shop/grisino_nena_04B.jpg"
+    ],
+    "color": "Violeta",
+    "descripcion": "REMERA FILOMENA NNA - JERSEY",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 5,
+    "nombre": "Botita Marta",
+    "categoria": "Calzado",
+    "linea": "Nena",
+    "marca": "Grisino",
+    "precio": 3500,
+    "imagen": [
+      "img/shop/grisino_nena_05.jpg",
+      "img/shop/grisino_nena_05B.jpg"
+    ],
+    "color": "Rosa",
+    "descripcion": "BOTITA MARTA NNA",
+    "stock": {
+      "24": 3,
+      "26": 2,
+      "28": 5,
+      "30": 2,
+      "32": 1
+    }
+  },
+  {
+    "codigo": 6,
+    "nombre": "Remera Kairos",
+    "categoria": "Remeras",
+    "linea": "Nene",
+    "marca": "Grisino",
+    "precio": 5000,
+    "imagen": [
+      "img/shop/grisino_nene_01.jpg",
+      "img/shop/grisino_nene_01B.jpg"
+    ],
+    "color": "Azul",
+    "descripcion": "REMERA KAIROS NN - JERSEY",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 7,
+    "nombre": "Short Nato",
+    "categoria": "Shorts",
+    "linea": "Nene",
+    "marca": "Grisino",
+    "precio": 1785,
+    "imagen": [
+      "img/shop/grisino_nene_02.jpg",
+      "img/shop/grisino_nene_02B.jpg"
+    ],
+    "color": "Gris",
+    "descripcion": "SHORT NATO NN - RUSTICO",
+    "stock": {
+      "XS": 4,
+      "S": 2,
+      "M": 5,
+      "XL": 1,
+      "XXL": 2
+    }
+  },
+  {
+    "codigo": 8,
+    "nombre": "Pantalon Jeff",
+    "categoria": "Jeans",
+    "linea": "Nene",
+    "marca": "Grisino",
+    "precio": 1800,
+    "imagen": [
+      "img/shop/grisino_nene_03.jpg",
+      "img/shop/grisino_nene_03B.jpg"
+    ],
+    "color": "Azul",
+    "descripcion": "PANTALON JEFF NN - DENIM ELASTANO",
+    "stock": {
+      "XS": 4,
+      "S": 2,
+      "M": 5,
+      "XL": 1,
+      "XXL": 2
+    }
+  },
+  {
+    "codigo": 9,
+    "nombre": "Zapa Marea",
+    "categoria": "Calzado",
+    "linea": "Nene",
+    "marca": "Grisino",
+    "precio": 1615,
+    "imagen": [
+      "img/shop/grisino_nene_04.jpg"
+    ],
+    "color": "Azul",
+    "descripcion": "ZAPA MAREA NEOPRENE",
+    "stock": {
+      "24": 3,
+      "26": 2,
+      "28": 5,
+      "30": 2,
+      "32": 1
+    }
+  },
+  {
+    "codigo": 10,
+    "nombre": "Remera Gaby UV",
+    "categoria": "Mallas",
+    "linea": "Nene",
+    "marca": "Grisino",
+    "precio": 1600,
+    "imagen": [
+      "img/shop/grisino_nene_05.jpg"
+    ],
+    "color": "Amarillo",
+    "descripcion": "REMERA GABY NN - JERSEY ELASTANO UV",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 11,
+    "nombre": "Vestido Nayarit",
+    "categoria": "Vestidos",
+    "linea": "Nena",
+    "marca": "Mimo&Co",
+    "precio": 3000,
+    "imagen": [
+      "img/shop/mimo_nena_01.jpg",
+      "img/shop/mimo_nena_01B.jpg"
+    ],
+    "color": "Verde",
+    "descripcion": "Vestido de jersey broderie 100% algodón. Ideal para fiestas",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 12,
+    "nombre": "Remera Jr Alicante",
+    "categoria": "Remeras",
+    "linea": "Nena",
+    "marca": "Mimo&Co",
+    "precio": 3800,
+    "imagen": [
+      "img/shop/mimo_nena_02.jpg",
+      "img/shop/mimo_nena_02B.jpg"
+    ],
+    "color": "Melange",
+    "descripcion": "Remera de jersey 100% algodón, tiene estampa con brillo",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 13,
+    "nombre": "Traje de Baño Aruba",
+    "categoria": "Mallas",
+    "linea": "Nena",
+    "marca": "Mimo&Co",
+    "precio": 3200,
+    "imagen": [
+      "img/shop/mimo_nena_03.jpg",
+      "img/shop/mimo_nena_03B.jpg"
+    ],
+    "color": "Multicolor",
+    "descripcion": "Body para el agua manga ranglan de tricot estampado con elastano. Esta prenda tiene la propiedad UV+50 proteccion que bloquea el paso de los rayos solares ultravioleta, protegiendo la piel con un factor superior a 50 ",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 14,
+    "nombre": "Remera Kid Turin",
+    "categoria": "Remeras",
+    "linea": "Nene",
+    "marca": "Mimo&Co",
+    "precio": 3000,
+    "imagen": [
+      "img/shop/mimo_nene_01.jpg",
+      "img/shop/mimo_nene_01B.jpg"
+    ],
+    "color": "Gris",
+    "descripcion": "Remera de jersey buton con Estampa texto Para usar con todo!",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 15,
+    "nombre": "Zapa Power",
+    "categoria": "Calzado",
+    "linea": "Nene",
+    "marca": "Mimo&Co",
+    "precio": 3100,
+    "imagen": [
+      "img/shop/mimo_nene_02.jpg",
+      "img/shop/mimo_nene_02B.jpg"
+    ],
+    "color": "Azul",
+    "descripcion": "Zapatilla de capellada textil combinada con recortes en material símil cuero. Se ajusta sobre el empeine a través de tira con abrojo. Su suela liviana y flexible la convierte en un calzado ideal para actividades de movimiento. Plantilla plana. Horma de calce estándar.",
+    "stock": {
+      "24": 3,
+      "26": 2,
+      "28": 5,
+      "30": 2,
+      "32": 1
+    }
+  },
+  {
+    "codigo": 16,
+    "nombre": "Cap Surf",
+    "categoria": "Accesorios",
+    "linea": "Nene",
+    "marca": "Mimo&Co",
+    "precio": 1000,
+    "imagen": [
+      "img/shop/mimo_nene_03.jpg",
+      "img/shop/mimo_nene_03B.jpg"
+    ],
+    "color": "Verde",
+    "descripcion": "Cap de red con estampa con altura en el frente. Tiene velcro en la parte de atrás para regular el ajuste. ",
+    "stock": {
+      "TU": 8
+    }
+  },
+  {
+    "codigo": 17,
+    "nombre": "Cap Smile",
+    "categoria": "Accesorios",
+    "linea": "Nena",
+    "marca": "Mimo&Co",
+    "precio": 1000,
+    "imagen": [
+      "img/shop/mimo_nena_04.jpg",
+      "img/shop/mimo_nena_04B.jpg"
+    ],
+    "color": "Rosado",
+    "descripcion": "Cap de red con estampa con altura en el frente. Tiene velcro en la parte de atrás para regular el ajuste.",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 18,
+    "nombre": "Jean Boyfriend",
+    "categoria": "Jeans",
+    "linea": "Damas",
+    "marca": "VER",
+    "precio": 7200,
+    "imagen": [
+      "img/shop/ver_jean_01.jpg"
+    ],
+    "color": "Azul",
+    "descripcion": "Jean corte slim 5 bolsillos , tiro medio y piernas rectas con largo capri. Confeccionado en denim satin elastizado con proceso stone vintage. Cierre frontal con cremallera y botón metálico níquel opaco.",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 1,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 19,
+    "nombre": "Jean Skinny push Up",
+    "categoria": "Jeans",
+    "linea": "Damas",
+    "marca": "VER",
+    "precio": 3800,
+    "imagen": [
+      "img/shop/ver_jean_02.jpg"
+    ],
+    "color": "Blanco",
+    "descripcion": "Jean corte skinny 5 bolsillos, tiro mmedio, piernas ajustadas y diseño push up que redefine las curvas En satin elastizado blanco racleado a blanco ( para evitar transparencia) y pespuntes al tono Cierre frontal con cremallera y botón metálico cobre natura",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 3,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 20,
+    "nombre": "Cartera Maui",
+    "categoria": "Accesorios",
+    "linea": "Damas",
+    "marca": "VER",
+    "precio": 1500,
+    "imagen": [
+      "img/shop/ver_accesorio_01.jpg"
+    ],
+    "color": "Crudo",
+    "descripcion": "Cartera de yute combinada con detalle de borla colgante color crudo Doble manija",
+    "stock": {
+      "TU": 8
+    }
+  },
+  {
+    "codigo": 21,
+    "nombre": "Vestido Basico Largo",
+    "categoria": "Vestidos",
+    "linea": "Damas",
+    "marca": "VER",
+    "precio": 4500,
+    "imagen": [
+      "img/shop/ver_vestido_01.jpg"
+    ],
+    "color": "Combinada",
+    "descripcion": "Vestido básico.  Tipo remerón largo. Manga corta.Cuello redondo. Costuras al tono.Calce al cuerpo.",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 22,
+    "nombre": "Remera Julieta",
+    "categoria": "Remeras",
+    "linea": "Damas",
+    "marca": "Yagmour",
+    "precio": 2500,
+    "imagen": [
+      "img/shop/ygm_remera_01.jpg"
+    ],
+    "color": "Blanco",
+    "descripcion": "Remera con detalles y tachas de colores",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 23,
+    "nombre": "Pulsera dijes Love Lola",
+    "categoria": "Accesorios",
+    "linea": "Damas",
+    "marca": "Yagmour",
+    "precio": 200,
+    "imagen": [
+      "img/shop/ygm_accesorio_01.jpg"
+    ],
+    "color": "Plata",
+    "descripcion": "Pulsera de cadena con dijes y detalle de cuentas, es ideal para usarla todos los días y darle un toque canchero a tus looks Pulsera tamaño medio (regulable) Composición: Cadena y dijes de fundición de metales. Cuenta de vidrio color negro facetado. Baño plateado",
+    "stock": {
+      "TU": 12
+    }
+  },
+  {
+    "codigo": 24,
+    "nombre": "Vestido Victoria",
+    "categoria": "Vestidos",
+    "linea": "Damas",
+    "marca": "Yagmour",
+    "precio": 6200,
+    "imagen": [
+      "img/shop/ygm_vestido_01.jpg"
+    ],
+    "color": "Multicolor",
+    "descripcion": "Vestido corte moderno, ajustado al cuerpo y muy liviano",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  },
+  {
+    "codigo": 25,
+    "nombre": "Jean Oxford Tracy Midstone",
+    "categoria": "Jeans",
+    "linea": "Damas",
+    "marca": "Yagmour",
+    "precio": 7200,
+    "imagen": [
+      "img/shop/ygm_jean_01.jpg"
+    ],
+    "color": "Azul",
+    "descripcion": "Pantalon oxford lavado medio . Una prenda atemporal, en un tono que es tendencia. ¡Compralo hoy y usalo todo el año! Los pantalones acampanados están de moda y el Jean Oxford Tracy Midstone cumple con la regla. ¡Tenelo a un precio increíble y combinalo para crear múltiples estilos! ",
+    "stock": {
+      "XS": 3,
+      "S": 2,
+      "M": 5,
+      "XL": 2,
+      "XXL": 1
+    }
+  }
+]
