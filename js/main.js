@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
         //Callbacks
         storageUpdate();
 
-        //Si estamos en la seccion index
+        //Si estamos en la seccion generica
         if (document.body.dataset.section === "generic") {
             modal();
         }
