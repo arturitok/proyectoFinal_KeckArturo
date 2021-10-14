@@ -1,5 +1,4 @@
 import { productos, productsLoad, productsShow, productShow, stockUpdate } from "./productos.js";
-import { mobileMenu } from "./mobilemenu.js";
 import { modal } from "./modal.js";
 import { cart, cartShow } from "./shoppingCart.js";
 import { categoryShow, productSort } from "./sort.js";
@@ -8,7 +7,6 @@ import { buscador } from "./search.js";
 
 //Ejecutar los scripts para cargar el DOM
 document.addEventListener("DOMContentLoaded", () => {
-    mobileMenu();
     productsLoad(function () {
         //Callbacks
         storageUpdate();
