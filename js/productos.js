@@ -5,7 +5,7 @@ import { Product } from "./producto.js";
 export const productos = [];
 
 //Leer los productos del archivo data.json y guardarlos en la variable productos declarada arriba. Ejecutar productsShow() al final  en el callback.
-const URLJSON = "/data/data.json";
+const URLJSON = "../data/data.json";
 
 export function productsLoad(callback) {
   $.getJSON(URLJSON, function (respuesta, estado) {
